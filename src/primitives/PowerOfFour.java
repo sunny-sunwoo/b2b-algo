@@ -1,7 +1,6 @@
 package primitives;
 
 public class PowerOfFour {
-
 	/**
 	 * q. validate if input is power of 4.
 	 * 
